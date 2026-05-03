@@ -175,7 +175,7 @@
 
     <div class="hero-section">
         <div class="logo-center">
-            <img src="images/logo.png" alt="Logo">
+            <img src="logo.png" alt="Logo">
         </div>
 
         <h1>BIENVENU CHEZ URKIM NA BISO</h1>
